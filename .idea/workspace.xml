@@ -4,14 +4,28 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f63839fb-298b-40f2-92b5-acd933361fcb" name="Changes" comment="new Repository">
-      <change afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
+    <list default="true" id="f63839fb-298b-40f2-92b5-acd933361fcb" name="Changes" comment="new file.readme">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/abstração/Abstracao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Carros.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/ClasseMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/classe/Pessoa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/encapsulamento/Encapsulamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/poliformismo/Poliformismo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,11 +66,19 @@
       <option name="project" value="LOCAL" />
       <updated>1685980316619</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="new file.readme">
+      <created>1685980885204</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1685980885204</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new Repository" />
-    <option name="LAST_COMMIT_MESSAGE" value="new Repository" />
+    <MESSAGE value="new file.readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="new file.readme" />
   </component>
 </project>

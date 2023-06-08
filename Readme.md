@@ -18,7 +18,7 @@ objetos são instâncias das classes. Eles são criados a partir de uma classe e
 próprios conjuntos de valores para as variáveis de instância. Os objetos podem interagir entre si, invocando métodos 
 uns dos outros e trocando informações.
 
-## Encapsulamento: 
+## encapsulamento.Encapsulamento: 
 
 O encapsulamento é um princípio que define o acesso aos membros internos de uma classe. Através 
 da utilização de modificadores de acesso, como "public", "private" e "protected", é possível controlar quais membros 
