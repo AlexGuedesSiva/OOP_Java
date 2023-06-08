@@ -4,14 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f63839fb-298b-40f2-92b5-acd933361fcb" name="Changes" comment="new file.readme">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulamento/ExemploPessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulamento/Pessoa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/encapsulamento/Readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="f63839fb-298b-40f2-92b5-acd933361fcb" name="Changes" comment="actualization package Encapsulamento">
+      <change afterPath="$PROJECT_DIR$/src/herança/Celular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herança/Computador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herança/Desktop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/herança/Tablet.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/encapsulamento/Encapsulamento.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -79,12 +78,20 @@
       <option name="project" value="LOCAL" />
       <updated>1685980885204</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="actualization package Encapsulamento">
+      <created>1686234052503</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1686234052503</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="new Repository" />
     <MESSAGE value="new file.readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="new file.readme" />
+    <MESSAGE value="actualization package Encapsulamento" />
+    <option name="LAST_COMMIT_MESSAGE" value="actualization package Encapsulamento" />
   </component>
 </project>
