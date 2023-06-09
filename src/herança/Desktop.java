@@ -10,7 +10,7 @@ public class Desktop extends Computador {
         this.placaDeVideo = placaDeVideo;
     }
 
-    // Métodos
+    // Getter/Setter
 
     public String getPlacaDeVideo(){
         return this.placaDeVideo;
