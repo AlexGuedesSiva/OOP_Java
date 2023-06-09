@@ -14,6 +14,36 @@ public class Computador {
         this.memoria = memoria;
         this.processador = processador;
     }
+
+    // Getter e Setter
+    public int getCodigoDeBarra() {
+        return codigoDeBarra;
+    }
+    public void setCodigoDeBarra(int codigoDeBarra) {
+        this.codigoDeBarra = codigoDeBarra;
+    }
+    public int getMemoria() {
+        return memoria;
+    }
+    public void setMemoria(int memoria) {
+        this.memoria = memoria;
+    }
+    public String getProcessador() {
+        return processador;
+    }
+    public void setProcessador(String processador) {
+        this.processador = processador;
+    }
+
+    @Override
+    public String toString() {
+        return "Computador{" +
+                "codigoDeBarra=" + codigoDeBarra +
+                ", memoria=" + memoria +
+                ", processador='" + processador + '\'' +
+                '}';
+    }
+
     // Métodos
     public void ligar(){
         System.out.println("Maquina ligada");

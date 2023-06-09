@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63839fb-298b-40f2-92b5-acd933361fcb" name="Changes" comment="Criado package herança">
+      <change afterPath="$PROJECT_DIR$/src/herança/Executavel.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/herança/Celular.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herança/Celular.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/herança/Computador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herança/Computador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/herança/Desktop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herança/Desktop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/herança/Tablet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/herança/Tablet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/poliformismo/Poliformismo.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -90,7 +91,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686242897308</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Criado package herança">
+      <created>1686350678578</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1686350678578</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">

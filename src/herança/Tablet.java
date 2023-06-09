@@ -19,6 +19,14 @@ public class Tablet extends Computador{
         this.cobertura = cobertura;
     }
 
+    @Override
+    public String toString() {
+        return  "Código de barra: " + getCodigoDeBarra() + "\n" +
+                "Memória: " + getMemoria() + "\n" +
+                "Processador: " + getProcessador() + "\n" +
+                "Cobertura: " + cobertura;
+    }
+
     //Métodos
     public void iniciarConexao(){
         System.out.println("Conexão ativada");

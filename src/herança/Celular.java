@@ -11,12 +11,20 @@ public class Celular extends Computador {
     }
 
     //Getter/Setter
-    public boolean GetLigacao() {
+    public boolean isLigacao() {
         return this.ligacao;
     }
 
     public void setLigacao(boolean ligacao) {
         this.ligacao = ligacao;
+    }
+
+    @Override
+    public String toString() {
+        return "Código de barra: " + getCodigoDeBarra() + "\n" +
+                "Memória: " + getMemoria() + "\n" +
+                "Processador: " + getProcessador() + "\n" +
+                "Status da ligação: " + isLigacao();
     }
 
     // Métodos
