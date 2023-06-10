@@ -4,12 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f63839fb-298b-40f2-92b5-acd933361fcb" name="Changes" comment="create package polimorfismo e add as classes Animal">
-      <change afterPath="$PROJECT_DIR$/src/lambda/Calculo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/CalculoTeste.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/CalculoTeste2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/Multiplicar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lambda/Somar.java" afterDir="false" />
+    <list default="true" id="f63839fb-298b-40f2-92b5-acd933361fcb" name="Changes" comment="create packate lambda">
+      <change afterPath="$PROJECT_DIR$/src/lambda/CalculoTeste3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1686398111196</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="create packate lambda">
+      <created>1686406816835</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1686406816835</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -108,6 +111,7 @@
     <MESSAGE value="new file.readme" />
     <MESSAGE value="actualization package Encapsulamento" />
     <MESSAGE value="create package polimorfismo e add as classes Animal" />
-    <option name="LAST_COMMIT_MESSAGE" value="create package polimorfismo e add as classes Animal" />
+    <MESSAGE value="create packate lambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="create packate lambda" />
   </component>
 </project>
