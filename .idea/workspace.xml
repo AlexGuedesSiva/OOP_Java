@@ -5,7 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f63839fb-298b-40f2-92b5-acd933361fcb" name="Changes" comment="create packate lambda">
-      <change afterPath="$PROJECT_DIR$/src/lambda/CalculoTeste3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Consumidor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Foreach.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Function.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Predicado.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +28,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/.jdks/openjdk-20.0.1/lib/src.zip!/java.base/java/util/List.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -113,5 +121,9 @@
     <MESSAGE value="create package polimorfismo e add as classes Animal" />
     <MESSAGE value="create packate lambda" />
     <option name="LAST_COMMIT_MESSAGE" value="create packate lambda" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
