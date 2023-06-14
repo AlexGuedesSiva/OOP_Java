@@ -4,10 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f63839fb-298b-40f2-92b5-acd933361fcb" name="Changes" comment="lmambda">
-      <change afterPath="$PROJECT_DIR$/src/lambda/Funcao.java" afterDir="false" />
+    <list default="true" id="f63839fb-298b-40f2-92b5-acd933361fcb" name="Changes" comment="create packate lambda">
+      <change afterPath="$PROJECT_DIR$/src/lambda/Fornecedor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/OperadorUnario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lambda/PredicadoComposição.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lambda/Function.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -107,14 +109,7 @@
       <option name="project" value="LOCAL" />
       <updated>1686406816835</updated>
     </task>
-    <task id="LOCAL-00007" summary="lmambda">
-      <created>1686709848781</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1686709848781</updated>
-    </task>
-    <option name="localTasksCounter" value="8" />
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -134,8 +129,7 @@
     <MESSAGE value="actualization package Encapsulamento" />
     <MESSAGE value="create package polimorfismo e add as classes Animal" />
     <MESSAGE value="create packate lambda" />
-    <MESSAGE value="lmambda" />
-    <option name="LAST_COMMIT_MESSAGE" value="lmambda" />
+    <option name="LAST_COMMIT_MESSAGE" value="create packate lambda" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
