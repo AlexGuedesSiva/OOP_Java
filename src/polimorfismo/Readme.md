@@ -21,4 +21,4 @@ objetos de diferentes classes de maneira uniforme, desde que eles implementem a 
 O polimorfismo em Java ajuda a escrever um código mais flexível, reutilizável e extensível. Ele permite o uso de 
 herança, substituição de métodos e interfaces para tratar objetos de diferentes classes de forma uniforme, evitando 
 a necessidade de conhecer os detalhes específicos de cada classe. Isso torna o código mais genérico, promove o 
-princípio da abstração e facilita a manutenção e expansão do sistema.
+princípio da abstracao e facilita a manutenção e expansão do sistema.

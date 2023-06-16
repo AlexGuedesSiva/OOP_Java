@@ -17,7 +17,7 @@ Além de campos e métodos, uma classe pode conter outros elementos, como constr
 criar objetos da classe), blocos estáticos e de instância, membros estáticos, classes internas, entre outros.
 
 As classes em Java são fundamentais para a organização e modularidade do código. Elas permitem a criação de objetos 
-com propriedades e comportamentos específicos, promovendo a reutilização de código e a abstração de conceitos complexos.
+com propriedades e comportamentos específicos, promovendo a reutilização de código e a abstracao de conceitos complexos.
 
 Em resumo, uma classe em Java é uma definição de um tipo de objeto que encapsula campos e métodos relacionados. 
 Ela serve como um modelo ou blueprint a partir do qual os objetos são criados. As classes são a base para a programação 

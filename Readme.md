@@ -30,6 +30,6 @@ A herança permite criar novas classes baseadas em classes existentes. A classe 
 de classe pai ou superclasse, e a classe que herda dela é chamada de classe filha ou subclasse. A herança permite 
 reutilizar código, estender funcionalidades e estabelecer relações hierárquicas entre classes.
 
-Além desses conceitos, a POO em Java também envolve outros princípios, como polimorfismo, interfaces e abstração, 
+Além desses conceitos, a POO em Java também envolve outros princípios, como polimorfismo, interfaces e abstracao, 
 que permitem uma maior flexibilidade e modularidade no desenvolvimento de programas. Esses conceitos e princípios 
 combinados formam a base da Programação Orientada a Objetos em Java.

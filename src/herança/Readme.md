@@ -29,6 +29,6 @@ implementar múltiplas interfaces (herança múltipla de tipo). Isso permite uma
 hierarquias de classes.
 
 Em resumo, a herança em Java permite que as classes derivadas herdem características e comportamentos de classes base, 
-facilitando a reutilização de código, extensibilidade, polimorfismo e abstração. É um conceito-chave da programação 
+facilitando a reutilização de código, extensibilidade, polimorfismo e abstracao. É um conceito-chave da programação 
 orientada a objetos e é amplamente utilizado na linguagem Java para criar hierarquias de classes e promover a 
 modularidade e a organização do código.
